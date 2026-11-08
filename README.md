@@ -48,3 +48,5 @@ To transform loan data into actionable insights by identifying lending patterns,
 ---
 
 **Tools:** Power BI | DAX | Data Modeling | Business Analytics
+<img width="1782" height="862" alt="Screenshot 194138" src="https://github.com/user-attachments/assets/2903d41e-2c7f-4db8-8de6-b791423c63e0" />
+
